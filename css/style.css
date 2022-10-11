@@ -38,8 +38,9 @@ main {
     max-width: 1000px;
     height: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
+    padding-left: 10px;
 }
 
 
